@@ -1,3 +1,4 @@
+# le code de base est trouvable à l'adresse https://github.com/akpythonyt/AKpythoncodes
 import cv2
 
 def fin(data):
